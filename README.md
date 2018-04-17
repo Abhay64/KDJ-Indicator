@@ -30,6 +30,7 @@ Where p3 is the third period that is set through the stochastic() method, which 
 # Implementing KDJ Indicator
 **Importing Data**
 ```python
+#Importing important libraries
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
