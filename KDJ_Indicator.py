@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
-Url_polo = 'http://34.210.192.138:8000/public?keys=command,currencyPair,start,end,period&values=returnChartData,BTC_BCH,1515819652,1515841252,300'
-df = pd.read_json(Url_polo)
+df = pd.read_csv('Put Your CSV File Here!!!')
+# converting from UNIX timestamp to normal
 df['date'] = pd.to_datetime(df['date'],unit='s').dt.date
 array_date = np.array(df['date'])
 array_close = np.array(df['close'])
