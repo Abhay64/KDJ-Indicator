@@ -23,5 +23,5 @@ KDJ is calculated quite alike Stochastic indicator, but the difference is in hav
 
 * This is how the %J line is calculated:
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/26857440/38861410-23520b8a-4250-11e8-85fe-f18ea8822e2a.PNG"></p>
+<img src="https://user-images.githubusercontent.com/26857440/38862045-91cb138a-4251-11e8-918a-d1ab75867695.PNG"></p>
 
